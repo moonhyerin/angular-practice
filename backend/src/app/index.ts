@@ -1,8 +1,8 @@
 import * as express from 'express';
-import * as bodyParser from'body-parser';
+import * as bodyParser from 'body-parser';
 
 import DBConnector from './db-connector';
-import Config from '../config';
+import Config from './config';
 
 const app = express();
 

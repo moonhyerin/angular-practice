@@ -2,7 +2,7 @@ import { MongoClient } from "mongodb";
 import * as path from 'path';
 import * as fs from "fs";
 
-import Config from "../config";
+import Config from "../app/config";
 
 const client = new MongoClient(Config.MONGO_URL);
 
