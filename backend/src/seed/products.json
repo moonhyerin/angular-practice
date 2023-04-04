@@ -1,0 +1,204 @@
+[
+  {
+    "gtin": "1234567890123",
+    "brandName": "Aurora",
+    "stock": 500,
+    "category": "shirt",
+    "color": "blue",
+    "name": "Aurora Blue Shirt",
+    "image": "shirt.png"
+  },
+  {
+    "gtin": "1234567890124",
+    "brandName": "Aurora",
+    "stock": 300,
+    "category": "pant",
+    "color": "black",
+    "name": "Aurora Black Pant",
+    "image": "pant.png"
+  },
+  {
+    "gtin": "1234567890125",
+    "brandName": "Aurora",
+    "stock": 150,
+    "category": "jacket",
+    "color": "brown",
+    "name": "Aurora Brown Jacket",
+    "image": "jacket.png"
+  },
+  {
+    "gtin": "1234567890126",
+    "brandName": "Aurora",
+    "stock": 200,
+    "category": "shirt",
+    "color": "red",
+    "name": "Aurora Red Shirt",
+    "image": "shirt.png"
+  },
+  {
+    "gtin": "1234567890127",
+    "brandName": "Aurora",
+    "stock": 250,
+    "category": "pant",
+    "color": "green",
+    "name": "Aurora Green Pant",
+    "image": "pant.png"
+  },
+  {
+    "gtin": "1234567890128",
+    "brandName": "Aurora",
+    "stock": 100,
+    "category": "jacket",
+    "color": "gray",
+    "name": "Aurora Gray Jacket",
+    "image": "jacket.png"
+  },
+  {
+    "gtin": "1234567890129",
+    "brandName": "Aurora",
+    "stock": 50,
+    "category": "shirt",
+    "color": "white",
+    "name": "Aurora White Shirt",
+    "image": "shirt.png"
+  },
+  {
+    "gtin": "1234567890130",
+    "brandName": "Aurora",
+    "stock": 400,
+    "category": "pant",
+    "color": "blue",
+    "name": "Aurora Blue Pant"
+  },
+  {
+    "gtin": "1234567890131",
+    "brandName": "Aurora",
+    "stock": 100,
+    "category": "jacket",
+    "color": "black",
+    "name": "Aurora Black Jacket",
+    "image": "jacket.png"
+  },
+  {
+    "gtin": "1234567890132",
+    "brandName": "Aurora",
+    "stock": 150,
+    "category": "shirt",
+    "color": "gray",
+    "name": "Aurora Gray Shirt",
+    "image": "shirt.png"
+  },
+  {
+    "gtin": "1234567890133",
+    "brandName": "Aurora",
+    "stock": 300,
+    "category": "pant",
+    "color": "black",
+    "name": "Aurora Black Pant"
+  },
+  {
+    "gtin": "1234567890134",
+    "brandName": "Aurora",
+    "stock": 75,
+    "category": "jacket",
+    "color": "brown",
+    "name": "Aurora Brown Jacket",
+    "image": "jacket.png"
+  },
+  {
+    "gtin": "1234567890135",
+    "brandName": "Aurora",
+    "stock": 200,
+    "category": "shirt",
+    "color": "blue",
+    "name": "Aurora Blue Shirt",
+    "image": "shirt.png"
+  },
+  {
+    "gtin": "1234567891123",
+    "brandName": "Nova",
+    "stock": 500,
+    "category": "shirt",
+    "color": "blue",
+    "name": "Nova Blue Shirt",
+    "image": "shirt.png"
+  },
+  {
+    "gtin": "1234567891124",
+    "brandName": "Nova",
+    "stock": 300,
+    "category": "pant",
+    "color": "black",
+    "name": "Aurora Black Pant"
+  },
+  {
+    "gtin": "1234567891125",
+    "brandName": "Nova",
+    "stock": 150,
+    "category": "jacket",
+    "color": "brown",
+    "name": "Nova Brown Jacket",
+    "image": "jacket.png"
+  },
+  {
+    "gtin": "1234567891126",
+    "brandName": "Nova",
+    "stock": 200,
+    "category": "shirt",
+    "color": "red",
+    "name": "Nova Red Shirt",
+    "image": "shirt.png"
+  },
+  {
+    "gtin": "1234567891127",
+    "brandName": "Nova",
+    "stock": 250,
+    "category": "pant",
+    "color": "green",
+    "name": "Nova Green Pant"
+  },
+  {
+    "gtin": "1234567891128",
+    "brandName": "Nova",
+    "stock": 100,
+    "category": "jacket",
+    "color": "gray",
+    "name": "Nova Gray Jacket",
+    "image": "jacket.png"
+  },
+  {
+    "gtin": "1234567891129",
+    "brandName": "Nova",
+    "stock": 50,
+    "category": "shirt",
+    "color": "white",
+    "name": "Nova White Shirt",
+    "image": "shirt.png"
+  },
+  {
+    "gtin": "1234567891130",
+    "brandName": "Nova",
+    "stock": 400,
+    "category": "pant",
+    "color": "blue",
+    "name": "Nova Blue Pant"
+  },
+  {
+    "gtin": "1234567890131",
+    "brandName": "Nova",
+    "stock": 100,
+    "category": "jacket",
+    "color": "black",
+    "name": "Nova Black Jacket",
+    "image": "jacket.png"
+  },
+  {
+    "gtin": "1234567890132",
+    "brandName": "Nova",
+    "stock": 150,
+    "category": "shirt",
+    "color": "gray",
+    "name": "Nova Gray Shirt",
+    "image": "shirt.png"
+  }
+]
