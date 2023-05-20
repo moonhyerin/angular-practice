@@ -1,6 +1,23 @@
 <nav class="platform-navigation">
-    <a routerLink="/" class="platform-navigation-logo">
-        <img src="/assets/fc_logo_white.svg" alt="Fashion Cloud Logo" />
-    </a>
+  <a routerLink="/" class="platform-navigation-logo">
+    <img src="/assets/fc_logo_white.svg" alt="Fashion Cloud Logo" />
+  </a>
 </nav>
+<div *ngFor="let product of products">
+  <figure class="model">
+    <img src="../assets/productImages/{{ product.image }}" />
+    <figcaption class="model--caption">
+      <h3 class="model-hed">
+        <a href="#">{{ product.name }}</a>
+      </h3>
+      <p>
+        {{ product.brandName }} <a href="#">{{ product.name }}</a
+        >.
+      </p>
+      <p></p>
+    </figcaption>
+  </figure>
+</div>
+<!-- <app-top-bar></app-top-bar>
+<app-product-list></app-product-list> -->
 <router-outlet></router-outlet>
